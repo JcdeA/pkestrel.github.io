@@ -23,7 +23,7 @@ name                     : "JcdeA"
 description              : "One of the developers that haven't (yet) changed the world."
 url                      : "https://iampoiuy.github.io"
 baseurl                  : 
-repository               : "iampoiuy/iampoiuy.github.io"
+repository               : "pkestrel/pkestrel.github.io"
 teaser                   : "/assets/images/bio-photo-keyboard.jpg"
 logo                     : "/assets/images/favicon-32x32.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
