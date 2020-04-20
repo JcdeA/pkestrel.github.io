@@ -18,11 +18,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "I am not poiuy"
 title_separator          : "|"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "I am not poiuy"
-description              : "회사에서는 월급 받고 집에서는 취미로 코딩하는 개발자의 블로그"
+subtitle                 : "I am absolutly not poiuy"
+name                     : "JcdeA"
+description              : "One of the developers that haven't (yet) changed the world."
 url                      : "https://iampoiuy.github.io"
-baseurl                  : # 서브 경로가 있는 경우 기재
+baseurl                  : 
 repository               : "iampoiuy/iampoiuy.github.io"
 teaser                   : "/assets/images/bio-photo-keyboard.jpg"
 logo                     : "/assets/images/favicon-32x32.png"
