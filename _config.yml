@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "I am not poiuy"
+title                    : ""
 title_separator          : "|"
-subtitle                 : "I am absolutly not poiuy"
+subtitle                 : ""
 name                     : "JcdeA"
 description              : "One of the developers that haven't (yet) changed the world."
 url                      : "https://iampoiuy.github.io"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "JcdeA"
   avatar           : "/assets/images/bio-photo-keyboard.jpg"
-  bio              : "I am not poiuy!"
+  bio              : "One of the developers that haven't (yet) changed the world."
   location         : "Mars"
   email            :
   links:
