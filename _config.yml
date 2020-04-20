@@ -25,7 +25,7 @@ url                      : "https://iampoiuy.github.io"
 baseurl                  : # 서브 경로가 있는 경우 기재
 repository               : "iampoiuy/iampoiuy.github.io"
 teaser                   : "/assets/images/bio-photo-keyboard.jpg"
-logo                     : "/android-chrome-192x192.png"
+logo                     : "/assets/images/favicon-32x32.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
